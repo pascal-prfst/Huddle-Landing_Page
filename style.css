@@ -54,6 +54,7 @@ button:hover {
 }
 button a {
     text-decoration: none;
+    color:hsl(257, 40%, 49%);
 }
 button a:hover {
     color: white;
